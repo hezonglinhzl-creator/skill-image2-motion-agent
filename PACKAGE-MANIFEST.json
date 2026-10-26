@@ -1,6 +1,6 @@
 {
-  "files": 16,
-  "bytes": 37108,
+  "files": 20,
+  "bytes": 53523,
   "entries": [
     {
       "path": ".gitignore",
@@ -43,19 +43,39 @@
       "sha256": "dc50fadba4c8acfd365c697a2e468eecbc6a5a9fcc16a35d10553ffec5e66acc"
     },
     {
+      "path": "apps/dreamina-image2video/README.en.md",
+      "bytes": 2345,
+      "sha256": "cf2293bcaaa610276130bdb804fbfbf2d58f4f4ae14c5dbc330489a461a8884c"
+    },
+    {
+      "path": "apps/dreamina-image2video/README.md",
+      "bytes": 2326,
+      "sha256": "c89c5289c61802d2a6dd8a4cd7a30e2ec297197e4592fad0263847fb05e2eaec"
+    },
+    {
       "path": "install.ps1",
       "bytes": 646,
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 4251,
+      "sha256": "3312ffccf8d7960be07b6eb441fbcf4f0cd77a3bf91ef01fef668d5e12a6d78b"
+    },
+    {
       "path": "README.md",
-      "bytes": 967,
-      "sha256": "3054248fd8369911686fc6300ee69fc0beefdcc507b63a9fef1e9bb36152ddbe"
+      "bytes": 4094,
+      "sha256": "d62f0dcc14067db2522da6b67ba8b06acbb55afc4ddb5141ae6e269642818bde"
+    },
+    {
+      "path": "skill/image2-motion-agent/README.en.md",
+      "bytes": 3129,
+      "sha256": "25b5f3926f46ab4bfa5c0d866d6fedae2f61c84a862aaab8dcde7bfbd44126e6"
     },
     {
       "path": "skill/image2-motion-agent/README.md",
-      "bytes": 1838,
-      "sha256": "74f864bec02dd0a9ded9a6937c02564967954a6acc29ff086b3bdeaa7c7cef47"
+      "bytes": 3075,
+      "sha256": "a5a6fb0d8828b714a3802cf810a8926d03696daf8d0b4160e61a8c36d1824a66"
     },
     {
       "path": "skill/image2-motion-agent/references/dreamina-cli-automation.md",
