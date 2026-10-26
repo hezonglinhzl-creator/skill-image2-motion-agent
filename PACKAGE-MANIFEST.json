@@ -1,0 +1,86 @@
+{
+  "files": 16,
+  "bytes": 37108,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/image2-motion-agent/README.md",
+      "bytes": 1838,
+      "sha256": "74f864bec02dd0a9ded9a6937c02564967954a6acc29ff086b3bdeaa7c7cef47"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/image2-motion-agent/references/dreamina-cli-automation.md",
+      "bytes": 2153,
+      "sha256": "fb97141ac4c6d72de89c5afa0f93b153825a36e6cf83874bc7c064fd4da77614"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/image2-motion-agent/scripts/dreamina_image2video.py",
+      "bytes": 4999,
+      "sha256": "02924c4eda10802afe9e1a42b0b6d564c3f6b1c6ef18ba0d620df968365cbe17"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/image2-motion-agent/SKILL.md",
+      "bytes": 5999,
+      "sha256": "cb1e000fa90e132c27cb238e1c54dcd045a17b0e7abd41221f654810482d8d09"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/install.cmd",
+      "bytes": 128,
+      "sha256": "8cff8f0c8e36f2c2a14a2eac656b91a6a0e255a3d6d0517380619a93a5b06f63"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/install.ps1",
+      "bytes": 3126,
+      "sha256": "feb9a9fc35ea20d5f729021fac3dbb5e0f26b904b7cf3182aa46b0a5aa6e4455"
+    },
+    {
+      "path": "apps/dreamina-image2video/image2-motion-agent-program-package/README-中文.md",
+      "bytes": 1536,
+      "sha256": "dc50fadba4c8acfd365c697a2e468eecbc6a5a9fcc16a35d10553ffec5e66acc"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 967,
+      "sha256": "3054248fd8369911686fc6300ee69fc0beefdcc507b63a9fef1e9bb36152ddbe"
+    },
+    {
+      "path": "skill/image2-motion-agent/README.md",
+      "bytes": 1838,
+      "sha256": "74f864bec02dd0a9ded9a6937c02564967954a6acc29ff086b3bdeaa7c7cef47"
+    },
+    {
+      "path": "skill/image2-motion-agent/references/dreamina-cli-automation.md",
+      "bytes": 2153,
+      "sha256": "fb97141ac4c6d72de89c5afa0f93b153825a36e6cf83874bc7c064fd4da77614"
+    },
+    {
+      "path": "skill/image2-motion-agent/scripts/dreamina_image2video.py",
+      "bytes": 4999,
+      "sha256": "02924c4eda10802afe9e1a42b0b6d564c3f6b1c6ef18ba0d620df968365cbe17"
+    },
+    {
+      "path": "skill/image2-motion-agent/SKILL.md",
+      "bytes": 5999,
+      "sha256": "cb1e000fa90e132c27cb238e1c54dcd045a17b0e7abd41221f654810482d8d09"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
