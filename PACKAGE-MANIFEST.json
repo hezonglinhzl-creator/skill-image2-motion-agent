@@ -1,11 +1,11 @@
 {
   "files": 20,
-  "bytes": 53523,
+  "bytes": 56812,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/dreamina-image2video/image2-motion-agent-program-package/image2-motion-agent/README.md",
@@ -54,18 +54,18 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 4251,
-      "sha256": "3312ffccf8d7960be07b6eb441fbcf4f0cd77a3bf91ef01fef668d5e12a6d78b"
+      "bytes": 4541,
+      "sha256": "c1aa547d4a2f5f422e940afac8424ee9469ff09269049cfd483fd27d4dd3e543"
     },
     {
       "path": "README.md",
-      "bytes": 4094,
-      "sha256": "d62f0dcc14067db2522da6b67ba8b06acbb55afc4ddb5141ae6e269642818bde"
+      "bytes": 4330,
+      "sha256": "3934b021887c86c8378e750b5ed129fdc7c27ec8d545129c1d34833a4c2212eb"
     },
     {
       "path": "skill/image2-motion-agent/README.en.md",
@@ -89,8 +89,8 @@
     },
     {
       "path": "skill/image2-motion-agent/SKILL.md",
-      "bytes": 5999,
-      "sha256": "cb1e000fa90e132c27cb238e1c54dcd045a17b0e7abd41221f654810482d8d09"
+      "bytes": 7044,
+      "sha256": "0736bc37fd904064dbbccc322cf76d1f647a3f08181ac0ed451a89849fc0b617"
     },
     {
       "path": "安装Skill.cmd",
